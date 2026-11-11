@@ -11,8 +11,8 @@ In JupyterHub, open a Terminal and run these commands. Replace `YOUR-ORG` with y
 ```bash
 git clone https://github.com/YOUR-ORG/project2.git
 cd project2
-wget https://raw.githubusercontent.com/fa26-iecc-cis1130-zachwilson/cis1130-project2-starter/main/StatsTracker.java
-wget https://raw.githubusercontent.com/fa26-iecc-cis1130-zachwilson/cis1130-project2-starter/main/.gitignore
+wget https://raw.githubusercontent.com/fa26-iecc-cis1130-zachwilson/cis1130-project2-starter/main/cis1130-project2-starter/StatsTracker.java
+wget https://raw.githubusercontent.com/fa26-iecc-cis1130-zachwilson/cis1130-project2-starter/main/cis1130-project2-starter/.gitignore
 ```
 
 If you already cloned `project2`, skip the first command and just `cd project2`.
